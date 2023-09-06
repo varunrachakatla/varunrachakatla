@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Myself Varunraj Rachakatla👋
 
 <!--
 **varunrachakatla/varunrachakatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am from Karimnager which by the way is a great city. I have 4 years of experience as a software engineer. My last project was Walgreens Boot Alliance where i worked on a Mobile application development.
+- 🌱 I’m currently learning programming languages and techniques by pursuing my masters
+
